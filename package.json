@@ -7,7 +7,7 @@
     "start": "nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1",
     "seeder": "node seeder.js",
-    "build":"npm install"
+    "build": "npm install"
   },
   "keywords": [],
   "author": "",
